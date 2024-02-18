@@ -1,6 +1,13 @@
-h1{
-    color: red;
+p{
+    color: rgb(237, 15, 15);
 }
-label{
-    color: rgb(9, 243, 255);
+.par{
+    color: blue;
+}
+.mainou{
+    color: rgb(7, 254, 7);
+}
+#monde{
+    color: yellow;
+
 }
